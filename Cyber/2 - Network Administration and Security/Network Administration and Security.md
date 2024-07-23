@@ -15,7 +15,7 @@ tags:
 > [!info]- Week 1
 > ![[semesterCalendarS2#School Events - Week 1]]
 > #### Class Tasks
-> - [ ] [CloneHolocron](_sharedContent/CloneHolocron.md)
+> - [x] [CloneHolocron](_sharedContent/CloneHolocron.md)
 > - [ ] [Accept Assignment](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Accept%20Assignment.md)
 > #### Theory
 > - [ ] [Project Overview](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Project%20Overview.md)
