@@ -2,6 +2,8 @@
 tags:
   - S1
   - DigitalTechnologies
+  - ISD
+  - yr11
 ---
 > [!note]- Project Overview
 > The project will be explained in due time...
@@ -64,7 +66,7 @@ tags:
 > # Practical
 > N/A
 
-> [!important]- Week 7
+> [!info]- Week 7
 > ![[semesterCalendarS1#School Events - Week 7]]
 > # Class Tasks
 > N/A
@@ -148,7 +150,7 @@ tags:
 
 > [!info]- Week 16
 > ![[semesterCalendarS1#School Events - Week 16]]
-> # Class **Tasks**
+> # Class Tasks
 > N/A
 > # Theory
 > N/A
@@ -157,7 +159,7 @@ tags:
 
 > [!info]- Week 17
 > ![[semesterCalendarS1#School Events - Week 17]]
-> # Class **Tasks**
+> # Class Tasks
 > N/A
 > # Theory
 > N/A
@@ -166,7 +168,7 @@ tags:
 
 > [!info]- Week 18
 > ![[semesterCalendarS1#School Events - Week 18]]
-> # Class **Tasks**
+> # Class Tasks
 > N/A
 > # Theory
 > N/A
@@ -175,7 +177,7 @@ tags:
 
 > [!info]- Week 19
 > ![[semesterCalendarS1#School Events - Week 19]]
-> # Class **Tasks**
+> # Class Tasks
 > N/A
 > # Theory
 > N/A
@@ -194,7 +196,7 @@ This unit has several assessments, the details can be found in the unit outline.
 
 The details for each assessment can be found on Google Classroom, as they are published.
 
-[[ISD/2 - Digital Applications/2024S2/Assessment 2 - 2024S2|Assessment 2 - 2024S2]]
+[[ISD/2 - Digital Applications/2024S2/Assessment 2|Assessment 2]]
 
 ## Contact Details
 

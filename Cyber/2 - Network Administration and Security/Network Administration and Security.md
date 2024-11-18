@@ -2,6 +2,7 @@
 tags:
   - S2
   - Cyber
+  - yr11
 ---
 > [!note]- Project Overview
 > You are being tasked to develop secure servers and clients to support the Northside Hospital Project.
@@ -36,7 +37,7 @@ tags:
 > [!danger]- Week 3
 > ![[semesterCalendarS2#School Events - Week 3]]
 > 
-> [Assessment Assistance](_sharedContent/Assessments2024S2/Task1.md)
+> [Assessment Assistance](Task1.md)
 > 
 > **Assessment Week**
 > You will be given your assessment/topic Monday morning. The task will be due Friday 11:59pm.
@@ -46,7 +47,7 @@ tags:
 > [!info]- Week 4
 > ![[semesterCalendarS2#School Events - Week 4]]
 > #### Class Tasks
-> - [ ] [Task Allocation](Cyber/1%20-%20Networking%20and%20Cyber%20Systems/_topics/Task%20Allocation.md)
+> - [ ] [Task Allocation](Task%20Allocation.md)
 > - [ ] [Project Plan](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Project%20Plan.md)
 > #### Theory
 > N/A
@@ -75,7 +76,7 @@ tags:
 > ![[semesterCalendarS2#School Events - Week 7]]
 > #### Class Tasks
 > - [ ] [Server Documentation](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Server%20Documentation.md)
-> - [ ] [Assessment 2 - 2024S2](Cyber/2%20-%20Network%20Administration%20and%20Security/2024S2/Assessment%202%20-%202024S2.md)
+> - [ ] [Assessment 2](Cyber/2%20-%20Network%20Administration%20and%20Security/2024S2/Assessment%202.md)
 > #### Theory
 > N/A
 > #### Practical
@@ -85,7 +86,7 @@ tags:
 > ![[semesterCalendarS2#School Events - Week 8]]
 > #### Class Tasks
 > - [ ] ICTSAS305 Provide ICT Advice to Clients VET competency.
-> - [ ] [Assessment 2 - 2024S2](Cyber/2%20-%20Network%20Administration%20and%20Security/2024S2/Assessment%202%20-%202024S2.md) 
+> - [ ] [Assessment 2](Cyber/2%20-%20Network%20Administration%20and%20Security/2024S2/Assessment%202.md) 
 > #### Theory
 > N/A
 > #### Practical
@@ -94,7 +95,7 @@ tags:
 > [!info]- Week 9
 > ![[semesterCalendarS2#School Events - Week 9]]
 > #### Class Tasks
-> - [ ] [Assessment 2 - 2024S2](Cyber/2%20-%20Network%20Administration%20and%20Security/2024S2/Assessment%202%20-%202024S2.md)
+> - [ ] [Assessment 2](Cyber/2%20-%20Network%20Administration%20and%20Security/2024S2/Assessment%202.md)
 > #### Theory
 > N/A
 > #### Practical
@@ -117,33 +118,34 @@ tags:
 > [!info]- Week 11
 > ![[semesterCalendarS2#School Events - Week 11]]
 > #### Class Tasks
-> - [ ] Finalise Project
-> - [ ] [Assessment 2 - 2024S2](Cyber/2%20-%20Network%20Administration%20and%20Security/2024S2/Assessment%202%20-%202024S2.md)
+> -  [[Bash Scripting]]
+> -  [Assessment 2](Cyber/2%20-%20Network%20Administration%20and%20Security/2024S2/Assessment%202.md)
 > #### Theory
 > N/A
 > #### Practical
 > N/A
 
-> [!danger]- Week 12
+> [!info]- Week 12
 > ![[semesterCalendarS2#School Events - Week 12]]
 > 
+> #### Class Tasks
+> - [[Cyber/2 - Network Administration and Security/2024S2/Assessment 2|Assessment 2]]
+> #### Theory
+> N/A
+> #### Practical
+> N/A
+
+> [!danger]- Week 13
+> ![[semesterCalendarS2#School Events - Week 13]]
+> 
 > - [ ] Finalise Project
-> - [ ] [Assessment 2 - 2024S2](Cyber/2%20-%20Network%20Administration%20and%20Security/2024S2/Assessment%202%20-%202024S2.md)
+> - [ ] [Assessment 2](Cyber/2%20-%20Network%20Administration%20and%20Security/2024S2/Assessment%202.md)
 > 
 > **Assessment Due**
 > The task will be due Friday 11:59pm.
 > Worth 50%.
 > The task will be posted to Google Classroom, as per normal.
 
-> [!info]- Week 13
-> ![[semesterCalendarS2#School Events - Week 13]]
-> 
-> #### Class Tasks
-> - [ ] Vet Competencies
-> #### Theory
-> N/A
-> #### Practical
-> N/A
 
 > [!info]- Week 14
 > ![[semesterCalendarS2#School Events - Week 14]]
@@ -183,8 +185,8 @@ tags:
 | Unit Outline     | Assessments                                                                                                          |
 | ---------------- | -------------------------------------------------------------------------------------------------------------------- |
 | Google Classroom | Assessment 1 - 25 %                                                                                                  |
-|                  | [Assessment 2](Cyber/2%20-%20Network%20Administration%20and%20Security/2024S2/Assessment%202%20-%202024S2.md) - 50 % |
-|                  | Assessment 3 - 25 %                                                                                                  |
+|                  | [Assessment 2](Cyber/2%20-%20Network%20Administration%20and%20Security/2024S2/Assessment%202.md) - 50 % |
+|                  | [[Cyber/2 - Network Administration and Security/2024S2/Assessment 3\|Assessment 3]] - 25 %                           |
 |                  |                                                                                                                      |
 
 # Contact Details

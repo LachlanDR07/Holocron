@@ -2,6 +2,8 @@
 tags:
   - S2
   - DigitalTechnologies/DigitalApplications
+  - ISD
+  - yr11
 ---
 > [!info]- Project Overview
 > Welcome to this tutorial on building a First-Person Shooter (FPS) game using Godot
@@ -51,7 +53,7 @@ tags:
 > [!danger]- Week 3
 > ![[semesterCalendarS2#School Events - Week 3]]
 > 
-> [Assessment Assistance](_sharedContent/Assessments2024S2/Task1.md)
+> [Assessment Assistance](Task1.md)
 > 
 > **Assessment Week**
 > You will be given your assessment/topic Monday morning. The task will be due Friday 11:59pm.
@@ -72,12 +74,12 @@ tags:
 > [!info]- Week 5
 > ![[semesterCalendarS2#School Events - Week 5]]
 > #### Class Tasks
-> - [ ] [Assessment Documentation](ISD/2%20-%20Digital%20Applications/_topics/theory/Assessment%20Documentation.md)
+> - [[ISD/2 - Digital Applications/2024S2/Assessment 2|Assessment 2]]
 > #### Theory
 > N/A
 > #### Practical
-> - [ ] [Raycasting](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Raycasting.md)
-> - [ ] [Shooting Bullet Instances](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Shooting%20Bullet%20Instances.md)
+> - [[Raycasting]]
+> - [[Shooting Bullet Instances]]
 
 > [!info]- Week 6
 > ![[semesterCalendarS2#School Events - Week 6]]
@@ -100,7 +102,7 @@ tags:
 > [!info]- Week 8
 > ![[semesterCalendarS2#School Events - Week 8]]
 > #### Class Tasks
-> [Assessment Documentation](obsidian://open?vault=Holocron&file=ISD%2F2%20-%20Digital%20Applications%2F2024S2%2FAssessment%202%20-%202024S2)
+> [[ISD/2 - Digital Applications/2024S2/Assessment 2|Assessment 2]]
 > Development Process scaffold has been added. With the scaffold it should be very easy to write out this section to be up to date this week.
 > Development Process should be fully written by end of week 9 so start now and get ahead
 > #### Theory 
@@ -114,7 +116,7 @@ tags:
 > #### Class Tasks
 > - [ ] [ VET Competencies](https://classroom.google.com/c/NjM5MjA3NTM2OTA3/a/NzExMjQ2MzUzMDc3/details)
 > 	- This week we will begin working through a VET Competency as well as working on Assessment documentation and the finishing touches of your games. You should aim to have this competency fully complete at the end of Week 10. Completing the competency is really simple and just takes a bit of time. Jacob will be going over how to complete the competency in great detail in Mondays class.
-> - [ ] [Assessment 2 - 2024S2](ISD/2%20-%20Digital%20Applications/2024S2/Assessment%202%20-%202024S2.md)
+> - [ ] [Assessment 2](ISD/2%20-%20Digital%20Applications/2024S2/Assessment%202.md)
 > 	- You should have the development process section drafted and ready to submit at the end of this week. Jacob will be reviewing and providing feedback on this section.
 > #### Theory
 > N/A
@@ -128,7 +130,7 @@ tags:
 > 	- Info about VET
 > - [ ] [VET Competency](https://classroom.google.com/c/NjM5MjA3NTM2OTA3/a/NzExMjQ2MzUzMDc3/details)
 > 	- Complete this VET Competency by end of this week
->  - [ ] [Assessment 2 - 2024S2](Robotics/4%20-%20Project/2024S2/Assessment%202%20-%202024S2.md)
+>  - [ ] [Assessment 2](Robotics/4%20-%20Project/2024S2/Assessment%202.md)
 > 	- You should be able to access the feedback on your development process section now. Review these and have a look at the feedback.
 > 	- The assessment documentation scaffold page has been populated for each section now. These should make it very easy to write up your assessment well before the due date. The whole document is due in week 12. With 3 weeks left (not including the school holidays) you have plenty of time to work through the linked page and write up your assessment documentation.
 > #### Theory
@@ -154,23 +156,23 @@ tags:
 > #### Practical
 > - [ ] Finalise project
 
-> [!danger]- Week 12
+> [!info]- Week 12
 > ![[semesterCalendarS2#School Events - Week 12]]
-> - [ ] [Assessment 2 - 2024S2](ISD/2%20-%20Digital%20Applications/2024S2/Assessment%202%20-%202024S2.md)
+> 
+> #### Class Tasks
+> - [[ISD/2 - Digital Applications/2024S2/Assessment 2|Assessment 2]]
+> #### Theory
+> N/A
+> #### Practical
+> - [[ISD/2 - Digital Applications/_topics/tutorials/High Score System|High Score System]]
+
+> [!danger]- Week 13
+> ![[semesterCalendarS2#School Events - Week 13]]
+> - [ ] [Assessment 2](ISD/2%20-%20Digital%20Applications/2024S2/Assessment%202.md)
 > **Assessment Due**
 > The task will be due Friday 11:59pm.
 > Worth 50%.
 > The task will be posted to Google Classroom, as per normal.
-
-> [!info]- Week 13
-> ![[semesterCalendarS2#School Events - Week 13]]
-> 
-> #### Class Tasks
-> - [ ] [VET](_sharedContent/VET.md)
-> #### Theory
-> N/A
-> #### Practical
-> N/A
 
 > [!info]- Week 14
 > ![[semesterCalendarS2#School Events - Week 14]]
@@ -206,14 +208,13 @@ tags:
 
 
 
-
 # Subject Information
 
 | Unit Outline     | Assessments                                                                                     |
 | ---------------- | ----------------------------------------------------------------------------------------------- |
 | Google Classroom | Assessment 1 - 25 %                                                                             |
-|                  | [Assessment 2](ISD/2%20-%20Digital%20Applications/2024S2/Assessment%202%20-%202024S2.md) - 50 % |
-|                  | Assessment 3 - 25 %                                                                             |
+|                  | [Assessment 2](ISD/2%20-%20Digital%20Applications/2024S2/Assessment%202.md) - 50 % |
+|                  | [[ISD/2 - Digital Applications/2024S2/Assessment 3\|Assessment 3]] - 25 %                       |
 
 ![[commonBlocks#Contact Details]]
 

@@ -2,6 +2,9 @@
 versionTested:
   - 4.2.2
   - "4.3"
+tags:
+  - ISD
+  - yr11
 ---
 
 > [!tip] Sign into GitHub in the browser, before proceeding.
@@ -12,7 +15,7 @@ https://classroom.github.com/a/twWdTyhT
 
 Clone the repository to your computer using GitHub Desktop (or any method). Choose the newly created repository
 
-![Clone the repository](/_admin/images/repoClone.png)
+![Clone the repository](repoClone.png)
 
 > [!info] Github desktop is the GUI interface to clone, commit, push etc repositories to and from Github that runs on your local computer.
 

@@ -1,3 +1,6 @@
+---
+tags: ANH
+---
 Wait for the project to be fully opened in Codespaces. Once completed, go to the Terminal tab, and enter the two separate commands (hitting enter after each).
 
 Once the project is open, go to the Terminal Tab and enter the following commands:
@@ -8,4 +11,4 @@ Once the project is open, go to the Terminal Tab and enter the following command
 
 Hitting enter after each command.
 
-![sqliteInstall](/WebDev/_shared/Projects/ANH/images/sqliteInstall.png)
+![sqliteInstall](sqliteInstall.png)

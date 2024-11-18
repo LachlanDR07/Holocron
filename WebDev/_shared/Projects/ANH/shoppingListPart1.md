@@ -1,3 +1,6 @@
+---
+tags: ANH
+---
 > [!info]- Goal
 > The goal of this part of the project is the implementation of a shopping list where users can add and remove items. Users will be able to create and manage different shopping lists for their own purposes (such as "Dinner Party" and "Weekly Items")
 
@@ -18,7 +21,7 @@ These tables need to be separated to keep the data stored effectively. `shopping
 
 **Example**
 
-![shoppingListDatabaseExample](/WebDev/_shared/Projects/ANH/images/shoppingListDatabaseExample.png)
+![shoppingListDatabaseExample](shoppingListDatabaseExample.png)
 
 ## `shopping_lists`
 
@@ -60,7 +63,7 @@ Create the table with the following fields.
 
 Open `models.py` and create the three new classes to match the database tables just created.
 
-![shoppingListModel](/WebDev/_shared/Projects/ANH/images/shoppingListModel.png)
+![shoppingListModel](shoppingListModel.png)
 
 Save the file.
 

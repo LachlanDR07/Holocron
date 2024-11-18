@@ -1,3 +1,6 @@
+---
+tags: ANH
+---
 >[!info]- Goal
 >The aim of this weeks work is to enable ANH to allow for new shopping lists to be created. We have already created the databases, models, and forms for the shopping lists and even shopping list items to be C.R.U.D(ed) now the templates need to be made for the website to function and app.py needs to be updated
 
@@ -34,7 +37,7 @@ CREATE TABLE shopping_list_items(
 
 Your database should create the tables shown:
 
-![shoppingListDB](/WebDev/_shared/Projects/ANH/images/shoppingListDB.png)
+![shoppingListDB](shoppingListDB.png)
 
 
 
@@ -77,7 +80,7 @@ class ShoppingListItemForm(FlaskForm):
 
 When all of this has been implemented correctly. You should find a table in your database with these parameters. Note: yours won't have any data inside yet
 
-![](WebDev/_shared/Projects/ANH/images/shoppingListDataTable.png)
+![](shoppingListDataTable.png)
 
 # This week focus
 
@@ -118,12 +121,12 @@ Now implement code into `{% block rowTwoColOneContent %}` and `{% block rowTwoCo
 
 >[!info]- Hint 2
 >Once implemented your webpage should look something like this (you may not be able to see this until the app.py is changed later on in these instructions but this image should show you how it needs to be coded in html):
-![](WebDev/_shared/Projects/ANH/images/shoppingListInputExample.png)
+![](shoppingListInputExample.png)
 >>`{% block rowTwoColOneContent %}` is in Green
 >`{% block rowTwoColTwoContent %}` is in Red
 
 Also make sure you add a link to this new page to `base.html`
-![](WebDev/_shared/Projects/ANH/images/shoppingListBaseUpdateExample.png)
+![](shoppingListBaseUpdateExample.png)
 
 ``` html
 <a class="nav-link" href="/shoppingLists">Shopping Lists</a>
@@ -157,4 +160,4 @@ Remember when creating a new route we want to:
 >[!info]- Hint 1
 >There are many routes already in `app.py` that do similar but slightly different things. Use those alongside these instructions to figure out the code.
 
-![](WebDev/_shared/Projects/ANH/images/pin.png)
+![](pin.png)

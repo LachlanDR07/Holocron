@@ -3,6 +3,9 @@ author: Ryan Cather
 date: 2024-06-09
 priority: 1
 order: 5
+tags:
+  - ISD
+  - yr11
 ---
 
 
@@ -15,19 +18,19 @@ First, the code will need to know **where** to create the bullet instances.
 
 Open `Player.tscn` and create a `Node3D` node as a child of the Camera. Name it `bulletSpawn`.  
 
-![Untitled](ISD/2%20-%20Digital%20Applications/_topics/tutorials/images/bulletShooting-bulletSpawn.png)
+![Untitled](bulletShooting-bulletSpawn.png)
 
 In 3d mode, move `bulletSpawn` to be in front of the camera. 
 
 > [!note] It might take some experimentation to make it look correct during game play. You may need to change the position a number of times.
 
-![Untitled](ISD/2%20-%20Digital%20Applications/_topics/tutorials/images/bulletShooting-bulletSpawnPosition.png)
+![Untitled](bulletShooting-bulletSpawnPosition.png)
 
 Open `Player.gd` and add the code to preload the bullet and configure the spawn point.
 
 > [!warning] Important - the path to the bullet scene and the bulletSpawn point need to be **exactly** as you’ve defined them in your project. If they are named as something else, your code needs to reflect that.
 
-![[ISD/2 - Digital Applications/_topics/tutorials/images/bulletShooting-PreloadBullet.png]]
+![[bulletShooting-PreloadBullet.png]]
 
 ```gdscript
 var bulletScene = preload("res://Scenes - Other/bullet.tscn")
@@ -43,7 +46,7 @@ Add a new variable to keep track of the ammunition the player is carrying.
 
 Set the value to something appropriate for your project.
 
-![[ISD/2 - Digital Applications/_topics/tutorials/images/bulletShooting-Ammo.png]]
+![[bulletShooting-Ammo.png]]
 
 ```gdscript
 var ammo : int = 15
@@ -55,9 +58,9 @@ Create a new function - `shoot()`- which will run when the shoot input is detect
 > [!note] Change `/Root/Doom` to the name of your root node in the game scene. E.g. `/Root/MainGame`
 
 
-![Untitled](ISD/2%20-%20Digital%20Applications/_topics/tutorials/images/bulletShooting-RootGame.png)
+![Untitled](bulletShooting-RootGame.png)
 
-![[ISD/2 - Digital Applications/_topics/tutorials/images/bulletShooting-ScriptShoot.png]]
+![[bulletShooting-ScriptShoot.png]]
 ```gdscript
 func shoot ():
     var bullet = bulletScene.instantiate()
@@ -70,7 +73,7 @@ func shoot ():
 
 Update `_physics_process()` to check to see if the player has pressed the `shoot` input. 
 
-![[ISD/2 - Digital Applications/_topics/tutorials/images/bulletShooting-PlayerInput.png]]
+![[bulletShooting-PlayerInput.png]]
 
 ```gdscript
 if Input.is_action_just_pressed("player_shoot"):
